@@ -1,0 +1,38 @@
+body > .grid {
+  height: 100vf;
+}
+
+.image {
+  margin-top: -100px;
+}
+
+.column {
+  margin-top: 50px;
+  margin-bottom: 20px;
+
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+}
+
+.masthead.segment {
+  min-height: 700px;
+  padding: 1em 0em;
+}
+
+.masthead h1.ui.header {
+  font-size: 2em;
+  margin-top: 250px;
+
+}
+.topp {
+  margin-top: 150px;
+}
+
+.myemp {
+  background: none;
+  padding: 0px;
+  border: none;
+}
